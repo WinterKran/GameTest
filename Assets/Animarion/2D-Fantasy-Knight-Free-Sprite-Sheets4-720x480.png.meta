@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: 5a24c96982cc9f9449c811d9799dc526
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 409
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686213168b998404d8ee616d04c346bd
+      internalID: 1709570583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 409
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a808fcfe106c0e478f64ff0814f3dc9
+      internalID: -790133246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 411
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62574980c3f044db21a1eced6e3bd1
+      internalID: -2142784385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 409
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd5484bd36ba7349930ac9978fa7b35
+      internalID: 51769224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 409
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4896c5d780d63db46bfa083506cf1ccb
+      internalID: 1620448658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 409
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc9e723113ac443892212f65fc9a22
+      internalID: -1025604907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 409
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b5f14472c30aa46b9461bb80544d7b
+      internalID: -272860785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 411
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd97c709b98654699882063ca20880
+      internalID: -130509599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 409
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17719fa8ff3e1a4409fc50b1f6327587
+      internalID: -4809811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 350
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344547b65fa2984294549ddf4d71ce7
+      internalID: -1939204850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 350
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ffcba12a18ecf4ab83dd490d07cf0c
+      internalID: -1089159212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 350
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf120bae773cb4fb7e68854c485bf0
+      internalID: 1774431875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 350
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d42a59ebfa9b644b07afab807fcdc3
+      internalID: -1049014802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 350
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b4865709fdc824aaac5d517cd5114c
+      internalID: -808663584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 350
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b04d27b25a2fd46a683ac076fb9fda
+      internalID: -415196729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 350
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40fd67ef1047e4185214e6611fc603
+      internalID: 149624601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 296
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9503524c997a15540a5a6b02e12093b6
+      internalID: 334904002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 295
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fbd90368c7bdb4ab12a32efd8ab934
+      internalID: 1592214775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 296
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb5d6776b06f9445be3bca322134831
+      internalID: 1750236341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 295
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ace7c536356a40aacf4b8125b2770
+      internalID: -144500420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 295
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855390d9727c8af4eb9a9377218261ac
+      internalID: 1170626459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 296
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b96e7f14c4f347bd924ce147bab25
+      internalID: 1501155334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 295
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f8c4ff134525c45a494549b242f184
+      internalID: -230214953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 229
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5829aa726e9c84489d42d53ddd126a5
+      internalID: 70808700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f1eae1fa2728742b3622b44fc4ccf0
+      internalID: -1855634604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 234
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec22d2deac42a94e9d370d90e19aad2
+      internalID: -66192526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb586582a4643d4490f1c0ffa0ecd9d
+      internalID: 58433642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 238
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bf5da7c6d4754ab2ed99d4dd62694
+      internalID: -900508752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 234
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022fe51c06183149b8aee5421d07a42
+      internalID: 556119505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 231
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24044056838ab498db6627cb75d91f
+      internalID: 616365489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 162
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f7915224e5468488917ad36d8e7e7e
+      internalID: 430332695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 162
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1613f2cdbf57c47b643244b53b19cc
+      internalID: -107022718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 162
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d1d85c4c6f4a84590dfa23e137ce54
+      internalID: 1682454453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 162
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447e606f3782f545b2682910ce9eab2
+      internalID: -89996092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 162
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66913786971950499338265cf8099cd
+      internalID: 2117256633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 162
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e6a5ded5941b41a9666925d0561af
+      internalID: -26187415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_36
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 162
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fa8dd5b03b2c44b2964555014b40d
+      internalID: -370008190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ce18c3a216b54e98fbbd6713e7813
+      internalID: -1361781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 93
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c699e2d1ff2f0449fc0df0d2f9ff38
+      internalID: -1624375792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 91
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be351b2498afa468e7e39c9346193e
+      internalID: 1846308963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 90
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25bf1e723cb7ed41aa5405ac6ab1e19
+      internalID: 980192480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 90
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d020b241ebc443bfe2e28a4899bb1
+      internalID: -775824030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 91
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018481ca531fbc4c858eea6511c4c09
+      internalID: 310037063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 93
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aad55725445144ba91dbeac4548d5b
+      internalID: 1089004452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 26
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e57d3585c584f42be9bf9b3d86d178
+      internalID: 321001610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 24
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5b9d7d1353c548a493dd711fe51a5
+      internalID: 1397995268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 23
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0389065ce8278ea488e06eb9545ea7e7
+      internalID: -242478893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 21
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e859ba62992f9c84c9c717156b9c02a1
+      internalID: -1893427003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 21
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead5d62c084447c45950d129314eb975
+      internalID: -490739492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 20
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c71c98d5eca94a9707a5233075135
+      internalID: -310932385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 15
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0f9e5adbf42345ba9786ab6e218ff
+      internalID: -283949525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_0: 1709570583
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_1: -790133246
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_10: -1089159212
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_11: 1774431875
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_12: -1049014802
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_13: -808663584
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_14: -415196729
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_15: 149624601
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_16: 334904002
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_17: 1592214775
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_18: 1750236341
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_19: -144500420
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_2: -2142784385
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_20: 1170626459
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_21: 1501155334
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_22: -230214953
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_23: 70808700
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_24: -1855634604
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_25: -66192526
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_26: 58433642
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_27: -900508752
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_28: 556119505
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_29: 616365489
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_3: 51769224
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_30: 430332695
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_31: -107022718
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_32: 1682454453
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_33: -89996092
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_34: 2117256633
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_35: -26187415
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_36: -370008190
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_37: -1361781028
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_38: -1624375792
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_39: 1846308963
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_4: 1620448658
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_40: 980192480
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_41: -775824030
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_42: 310037063
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_43: 1089004452
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_44: 321001610
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_45: 1397995268
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_46: -242478893
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_47: -1893427003
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_48: -490739492
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_49: -310932385
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_5: -1025604907
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_50: -283949525
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_6: -272860785
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_7: -130509599
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_8: -4809811
+      2D-Fantasy-Knight-Free-Sprite-Sheets4-720x480_9: -1939204850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
